@@ -1,8 +1,12 @@
-![https://i.ibb.co/Vps9t4x/uavcast-logo.png](https://i.ibb.co/Vps9t4x/uavcast-logo.png)
+# ⚠️ DEPRECATED
 
-[![GithubCI](https://github.com/sinamics/uavcast/workflows/Build%20Container/badge.svg)](https://github.com/sinamics/uavcast/actions)
-[![Release](https://img.shields.io/github/v/release/sinamics/uavcast.svg)](https://github.com/sinamics/uavcast/releases/latest)
-[![Docker Pulls](https://img.shields.io/docker/pulls/sinamics/uavcast.svg)](https://hub.docker.com/r/sinamics/uavcast/)
+This repository has been archived and is no longer maintained. No further updates, bug fixes, or support will be provided.
+
+## Status
+
+- 🔒 **Archived**: This repository is now in read-only mode
+- ⛔ **No Maintenance**: No further development or updates will be made
+- 🚫 **No Support**: Issues and pull requests are no longer accepted
 
 # uavcast-community edition - companion software for remote :helicopter: :boat: :red_car:
 
@@ -95,5 +99,3 @@ docker run --restart unless-stopped --name uavcast -d \
 ### Copyright and License
 
 Uavcast-community is provided under the [the 3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause).  
-All license notes are listed in our documentation.
-[https://docs.uavmatrix.com/5.x/libraries/](https://docs.uavmatrix.com/5.x/libraries/)

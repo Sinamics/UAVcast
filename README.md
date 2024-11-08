@@ -12,20 +12,6 @@ uavcast-community edition is an application that provides an easy method for str
 
 <br />
 
-## :whale: Installation
-
-Install latest uavcast-community edition on Rasperry PI, Jetson, or any <kbd>arm/v7</kbd> <kbd>arm64</kbd> <kbd>amd64</kbd> device:
-
-- `curl -s http://install.uavmatrix.com/next/ | sudo bash`
-
-<br />
-
-## :notebook: Documentation
-
-https://docs.uavmatrix.com/5.x/
-
-<br />
-
 ## :hammer: Codebase
 
 :white_check_mark: Express nodejs (Typescript)\
